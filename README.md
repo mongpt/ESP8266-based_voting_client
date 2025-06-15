@@ -1,7 +1,16 @@
 # 🗳️ Polling Device Development Project
 ![voting_device.png](voting_device.png)
 
-This repository contains the implementation details for the Polling Device Development Project, an international collaboration between **Metropolia University of Applied Sciences** and **Hochschule Osnabrück University**, presented on February 13, 2024. The project developed a **microcontroller-based wireless polling device** with a backend system to facilitate anonymous and registered voting, emphasizing simplicity, power efficiency, and scalability.
+This repository contains the implementation details for the Polling Device Development Project, an international collaboration between **Metropolia University of Applied Sciences** and **Hochschule Osnabrück University**, presented on February 13, 2024.  
+A wireless polling device system developed collaboratively by students from Metropolia University of
+              Applied Sciences and Hochschule Osnabrück, combining embedded systems, full-stack web development, and
+              hardware design. The device is built on the ESP-12F (ESP8266) microcontroller with a low-power e-paper
+              display and tactile buttons for user input. MQTT is used for efficient message exchange between voting
+              devices and a Flask-based backend running on a Raspberry Pi server, which manages user registration, vote
+              topics, and real-time result visualization. The frontend offers intuitive interfaces for device
+              registration, vote creation, and result monitoring. Designed for scalability, minimal power consumption,
+              and ease of use, the project demonstrates practical integration of IoT, embedded programming, and web
+              technologies in a distributed, real-time application.
 
 ## 📖 Project Report
 
